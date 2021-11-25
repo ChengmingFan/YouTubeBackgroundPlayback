@@ -3455,7 +3455,7 @@
             { "class_name": "aftp", "method_name": "n", "parameter_types": [], "actions": [
                 { "name": "set_field_boolean_before_method", "field_name": "l.m", "value": true }
             ] },
-            { "class_name": "dzd", "method_name": "a", "parameter_types": ["int"], "actions": [
+            { "class_name": "a", "method_name": "a", "parameter_types": ["int"], "actions": [
                 { "name": "set_args_value_before_method", "value": "INT:1" }
             ] },
             { "class_name": "agwh", "method_name": "f", "parameter_types": [ "aqgw" ], "actions": [
@@ -3470,6 +3470,72 @@
                 { "name": "set_args_value_before_method", "value": "INT:1" }
             ] },
             { "class_name": "ahgl", "method_name": "e", "parameter_types": [ "aqpb" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
+        ],
+        "152226": [
+            { "class_name": "agqp", "method_name": "e", "parameter_types": [], "actions": [
+                { "name": "set_field_boolean_before_method", "field_name": "l.m", "value": true }
+            ] },
+            { "class_name": "eih", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "ahtn", "method_name": "e", "parameter_types": [ "ardr" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
+        ],
+        "152265": [
+            { "class_name": "aheb", "method_name": "e", "parameter_types": [], "actions": [
+                { "name": "set_field_boolean_before_method", "field_name": "l.m", "value": true }
+            ] },
+            { "class_name": "ems", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "aiiv", "method_name": "k", "parameter_types": [ "arxn" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
+        ],
+        "152304": [
+            { "class_name": "agjr", "method_name": "e", "parameter_types": [], "actions": [
+                { "name": "set_field_boolean_before_method", "field_name": "l.m", "value": true }
+            ] },
+            { "class_name": "ete", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "agjx", "method_name": "j", "parameter_types": [ "arcp" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
+        ],
+        "152370": [
+            { "class_name": "ahhl", "method_name": "e", "parameter_types": [], "actions": [
+                { "name": "set_field_boolean_before_method", "field_name": "l.m", "value": true }
+            ] },
+            { "class_name": "far", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "ahib", "method_name": "h", "parameter_types": [ "asfk" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
+        ],
+        "152397": [
+            { "class_name": "ahjo", "method_name": "e", "parameter_types": [], "actions": [
+                { "name": "set_field_boolean_before_method", "field_name": "l.m", "value": true }
+            ] },
+            { "class_name": "feh", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "ahke", "method_name": "h", "parameter_types": [ "asjl" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
+        ],
+        "152422": [
+            { "class_name": "ahlx", "method_name": "e", "parameter_types": [], "actions": [
+                { "name": "set_field_boolean_before_method", "field_name": "l.m", "value": true }
+            ] },
+            { "class_name": "feg", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "ahmn", "method_name": "h", "parameter_types": [ "asns" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
         ]
