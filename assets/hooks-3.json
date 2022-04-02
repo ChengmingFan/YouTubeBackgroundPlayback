@@ -3538,6 +3538,7 @@
             { "class_name": "ahmn", "method_name": "h", "parameter_types": [ "asns" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
-        ]
+        ],
+        // test
     }
 }
